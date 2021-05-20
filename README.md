@@ -1,2 +1,3 @@
 # DrawTex
-This is an ongoing project I am making this summer to make creating Latex Tikz images easier. Specifically, one can draw shapes in a GUI and then generate valid Latex code to recreate this image. 
+A side project I'm working to make create geometric images in latex easier via a GUI drawing tool that allows one to export the image as Latex code or as
+an image
